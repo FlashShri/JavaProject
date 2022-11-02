@@ -1,0 +1,36 @@
+how to prepare java interview?
+
+->experience
+->like ocean
+
+=>Topcs
+
+-> Java Fundamentals
+	-> Basics
+	->Variables, Typecasting, Datatypes, etc
+-> OOPS
+	->Class, Object, Constructor , this , super
+	->Overloading
+	->Overriding
+	->Polymorphism
+	
+->String , Exception Handling , Packages
+
+->Collection Framework
+->Multithreading, Networking concepts
+->Garbadge Collector, JVM Internals
+->Generic and ENUM
+->File IO and NIO
+->Best Practices
+
+-> JDBC
+->Java Important API -> date time api, xml parsing, json 
+
+Extra  
+
+1.Project using Swing , Fx , advance
+2.Prepare cv/resume depeding upon job profile
+
+3.Data Structure and Algo using java
+
+4. Programming [Logic Development Practice]
