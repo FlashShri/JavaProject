@@ -1,0 +1,24 @@
+generic in java is besically Type safe the programm
+
+* type safe means the data type is already define 
+if while wirting code if we use diffferent data type for the method 
+we will get error at the time of compilation 
+
+we can type safe a funtion by using <DataType> 
+
+eg
+ArrayList<String> arr = new ArrayList();  // this is Type safe
+    -here we only add Strimg data to arr
+    arr.add("hi")';
+
+ArrayList arr = new ArrayList(); 
+/* this is not type safe we add diffferent data in this 
+
+# Similarly we can create our own generic funtions;
+
+public class master<Integer>   // now this class is only taking int 
+{
+
+}
+
+** in generic <DataType> is Wrapper class
