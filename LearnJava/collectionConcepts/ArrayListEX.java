@@ -18,6 +18,7 @@ public class ArrayListEX {
 		System.out.println(num);
 		
 		for (int i=0 ;i<num.size();i++) {
+			
 			System.out.println(num.get(i));
 		}
 		System.out.println("---------------------");
