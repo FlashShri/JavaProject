@@ -1,0 +1,55 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ArrayListEX",
+            "request": "launch",
+            "mainClass": "LearnJava.collectionConcepts.ArrayListEX",
+            "projectName": "VS_Boot_f165899c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseStringEx",
+            "request": "launch",
+            "mainClass": "ReverseStringEx",
+            "projectName": "VS_Boot_f165899c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassA",
+            "request": "launch",
+            "mainClass": "ClassA",
+            "projectName": "VS_Boot_f165899c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "VS_Boot_f165899c"
+        }
+    ]
+}
