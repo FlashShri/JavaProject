@@ -17,7 +17,7 @@ public class ArmstrongNo {
         while(temp>0){
 
             last_digit =temp%10;
-           // System.out.println(last_digit);
+           //  System.out.println(last_digit);
             sum += Math.pow(last_digit, total_digit);
 
             temp=temp/10;
