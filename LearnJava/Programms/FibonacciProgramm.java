@@ -36,6 +36,9 @@
         FibonacciProgramm.printFibonacciNos(15);
         SecondApproach.printFibonacciNos(10
         );
+
+        int num=13;
+        System.out.println("\n"+Math.sqrt(num));
     }
  }
 
