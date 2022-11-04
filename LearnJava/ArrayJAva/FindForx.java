@@ -26,7 +26,7 @@ public class FindForx {
         for(int j=0;j<c;j++){
 
             if(arr[i][j]==x){
-                System.out.println("Your data is at row:"+i+" and colomn: "+j);
+                System.out.println("Your data is at i= "+i+" and j= "+j);
             }
             }
         }
