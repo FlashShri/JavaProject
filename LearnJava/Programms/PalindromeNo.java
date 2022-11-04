@@ -1,4 +1,3 @@
-import javax.sound.sampled.SourceDataLine;
 
 /*
  * Palindrome Number
