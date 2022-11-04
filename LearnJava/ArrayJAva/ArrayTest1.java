@@ -31,7 +31,10 @@ public class ArrayTest1 {
         for(int j=0;j<2;j++){
             System.out.println(data[i][j]+" ");
         }
-     }   
+     } 
+     
+     System.out.println(data.getClass().getName());
+     
     }
    
 

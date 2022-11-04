@@ -42,6 +42,8 @@ public static void main(String[] args) {
         System.out.println(i);
     }
 
+    System.out.println(arr1.getClass().getName());
+
 }
     
 
